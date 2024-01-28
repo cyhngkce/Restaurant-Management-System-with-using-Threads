@@ -1,0 +1,16 @@
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\bin\Debug\net7.0-windows\threadsRestaurantManagement.exe
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\bin\Debug\net7.0-windows\threadsRestaurantManagement.deps.json
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\bin\Debug\net7.0-windows\threadsRestaurantManagement.runtimeconfig.json
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\bin\Debug\net7.0-windows\threadsRestaurantManagement.dll
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\bin\Debug\net7.0-windows\threadsRestaurantManagement.pdb
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.Form1.resources
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.csproj.GenerateResource.cache
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.AssemblyInfoInputs.cache
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.AssemblyInfo.cs
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.dll
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\refint\threadsRestaurantManagement.dll
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.pdb
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\threadsRestaurantManagement.genruntimeconfig.cache
+C:\Users\cyhngkce\source\repos\threadsRestaurantManagement\threadsRestaurantManagement\obj\Debug\net7.0-windows\ref\threadsRestaurantManagement.dll
